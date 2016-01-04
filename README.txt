@@ -1,6 +1,5 @@
-This is the README for the SuperPutty Application
+A fork and mirror of the SuperPutty project on google code (https://code.google.com/p/superputty/). Objective: to keep maintaining code and providing releases with improvements and bug fixes. 
 
 For License information please read the License.txt included with the download
-
-For issue tracking, documentation and downloads please visit the Google Code Project
-http://code.google.com/p/superputty/
+License: MIT
+Language: C# 
