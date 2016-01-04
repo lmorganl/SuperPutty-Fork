@@ -1,0 +1,60 @@
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.exe.config
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.exe
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.pdb
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\log4net.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit-console-runner.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit-gui-runner.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit.framework.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\SuperPutty.exe
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit.util.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit.core.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit.uikit.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\nunit.uiexception.dll
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\bin\Debug\SuperPutty.pdb
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.csprojResolveAssemblyReference.cache
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.TestAppRunner.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.csproj.GenerateResource.Cache
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.exe
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.pdb
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.exe.config
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.exe
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.pdb
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\log4net.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit-console-runner.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit-gui-runner.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.framework.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPutty.exe
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.util.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.core.interfaces.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.core.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.uikit.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.uiexception.dll
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPutty.pdb
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.csprojResolveAssemblyReference.cache
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.TestAppRunner.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.csproj.GenerateResource.Cache
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.exe
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.pdb
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.TestAppRunner.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.csproj.GenerateResource.Cache
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.exe.config
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.exe
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPuttyUnitTests.pdb
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\log4net.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit-console-runner.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit-gui-runner.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPutty.exe
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.util.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.core.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.uikit.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\nunit.uiexception.dll
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\bin\Debug\SuperPutty.pdb
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.exe
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPuttyUnitTests\obj\x86\Debug\SuperPuttyUnitTests.pdb

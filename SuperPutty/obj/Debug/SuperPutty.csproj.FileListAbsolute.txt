@@ -1,0 +1,93 @@
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\bin\Debug\SuperPutty.exe.config
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\bin\Debug\SuperPutty.exe
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\bin\Debug\SuperPutty.pdb
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.csprojResolveAssemblyReference.cache
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.AboutBox1.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Gui.ImageListPopup.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.ApplicationPanel.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.DebugLogViewer.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.dlgMouseFeedback.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Gui.dlgRenameItem.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.frmDocumentSelector.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.frmTransferStatus.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Gui.KeyboardShortcutEditor.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Gui.QuickSelector.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.LayoutsList.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Log4netLogViewer.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.RemoteFileListPanel.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.dlgFindPutty.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.dlgLogin.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.frmSuperPutty.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.dlgEditSession.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Properties.Resources.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Scp.BrowserView.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Scp.FileTransferView.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.Scp.PscpBrowserPanel.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.SessionTreeview.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.ctlPuttyPanel.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.ToolWindow.resources
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.csproj.GenerateResource.Cache
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.exe
+C:\MyDocuments\personal development\super putty\superputty-read-only-1.4\SuperPutty\obj\Debug\SuperPutty.pdb
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\bin\Debug\SuperPutty.exe.config
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.exe
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.pdb
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\bin\Debug\SuperPutty.exe
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\bin\Debug\SuperPutty.pdb
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.AboutBox1.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.ImageListPopup.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.ApplicationPanel.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.DebugLogViewer.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgMouseFeedback.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.dlgRenameItem.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.frmDocumentSelector.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.frmTransferStatus.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.KeyboardShortcutEditor.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.QuickSelector.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.LayoutsList.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Log4netLogViewer.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.RemoteFileListPanel.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgFindPutty.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgLogin.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.frmSuperPutty.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgEditSession.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Properties.Resources.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Scp.BrowserView.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Scp.FileTransferView.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Scp.PscpBrowserPanel.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.SessionTreeview.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.ctlPuttyPanel.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.ToolWindow.resources
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.csproj.GenerateResource.Cache
+d:\Profiles\mLegendre\Desktop\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.csprojResolveAssemblyReference.cache
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\bin\Debug\SuperPutty.exe.config
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.exe
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.pdb
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\bin\Debug\SuperPutty.exe
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\bin\Debug\SuperPutty.pdb
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.AboutBox1.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.ImageListPopup.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.ApplicationPanel.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.DebugLogViewer.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgMouseFeedback.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.dlgRenameItem.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.frmDocumentSelector.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.frmTransferStatus.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.KeyboardShortcutEditor.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Gui.QuickSelector.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.LayoutsList.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Log4netLogViewer.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.RemoteFileListPanel.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgFindPutty.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgLogin.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.frmSuperPutty.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.dlgEditSession.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Properties.Resources.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Scp.BrowserView.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Scp.FileTransferView.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.Scp.PscpBrowserPanel.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.SessionTreeview.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.ctlPuttyPanel.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.ToolWindow.resources
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.csproj.GenerateResource.Cache
+C:\Users\nhqj0201\Desktop\[ PRIVATE ]\Outils\Dev SupperPutty\SuperPutty-Fork-Sopra\V1.4\SuperPutty\obj\Debug\SuperPutty.csprojResolveAssemblyReference.cache
